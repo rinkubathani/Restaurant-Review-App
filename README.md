@@ -10,7 +10,7 @@ You have been provided the code for a restaurant reviews website. The code has a
 
 ### Steps to run application
 
-* Fork and clone repository.
+* Fork and Clone repository.
 
 * I had to use Google Maps for GOOGLE_MAPS_API_KEY.
 
